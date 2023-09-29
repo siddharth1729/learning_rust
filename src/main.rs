@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 struct Person {
     name: String,
     age: u32,
