@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "library_management_system"
+name = "learning_rust"
 version = "0.1.0"
