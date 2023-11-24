@@ -8,7 +8,7 @@ Structured Learning: The repository follows a structured approach, aligning with
 
 
 # Documentation Insights 
-Delve into documentation and comments that offer insights into my thought process, explanations of crucial concepts, and reflections on challenges encountered during the learning journey. Am following this Offical rust site to learn (Rust Lang Book)[https://doc.rust-lang.org/book/] 
+Delve into documentation and comments that offer insights into my thought process, explanations of crucial concepts, and reflections on challenges encountered during the learning journey. Am following this Offical rust site to learn [Rust Lang Book](https://doc.rust-lang.org/book/) 
 
 ## Happy Coding in Rust!
 Thank you for being a part of this exciting Rust learning journey. May your coding adventures in Rust be as thrilling and rewarding as mine! 🌐✨
